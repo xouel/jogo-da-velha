@@ -1,7 +1,8 @@
-[README.md](https://github.com/user-attachments/files/29667425/README.md)
 # Jogo da Velha
 
 Projeto simples de Jogo da Velha desenvolvido com HTML, CSS e JavaScript.
+
+🔗 **Demo:** [jogodavelha-orcin-gamma.vercel.app](https://jogodavelha-orcin-gamma.vercel.app)
 
 ## Sobre o projeto
 
